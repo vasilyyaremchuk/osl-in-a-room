@@ -3,7 +3,7 @@ Open-Source Literature: Play: In a room.
 
 ## The Outline of this Play
 
-The main idea of this piece of art just create a play with a simple decorations. It could be a room with a man and a women inside. 
+The main idea of this piece of art just create a play with a simple decorations. It could be a room with a man and a woman inside. 
 
 No matter where this room is, the outside world certainly influences what happens in the room, but this influence is just secondary, as well as the influence of the past and the future. We live in the present.
 
